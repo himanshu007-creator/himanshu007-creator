@@ -6,5 +6,10 @@
 - 🥅 2020 Goals: Study and contribute to Opensource projects
 - ⚡ Fun fact: I love to travel
 ### Connect with me:
+[<img align=”left” alt=”website” width=”22px” src=”https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align=”left” alt=”himanshu-here | LinkedIn” width=”22px” src=”https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align=”left” alt=”_himaqnshu_325 | Instagram” width=”22px” src=”https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[website]: https://himanshu007-creator.github.io/WEBSITE/
+[instagram]: https://www.instagram.com/_himanshu_325/
+[linkedin]:  https://www.linkedin.com/in/himanshu-here/
 
-[linkedin]: https://www.linkedin.com/in/himanshu-here/
