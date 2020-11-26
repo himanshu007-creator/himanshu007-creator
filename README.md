@@ -12,12 +12,13 @@
     <meta charset='utf-8'>
   </head>
   <body>
-<img align=”left” alt=”website” width=”22px” src=”https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-<img align=”left” alt=”himanshu-here | LinkedIn” width=”22px” src=”https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-<img align=”left” alt=”_himanshu_325 | Instagram” width=”22px” src=”https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-website: https://himanshu007-creator.github.io/WEBSITE/
-instagram: https://www.instagram.com/_himanshu_325/
-linkedin:  https://www.linkedin.com/in/himanshu-here/
+    <a> href='https://www.hackerrank.com/colonealcortez'</a>
+    <a href='https://himanshu007-creator.github.io/WEBSITE/'>WEBSITE</a>
+    <a href='https://www.instagram.com/_himanshu_325/'>INSTAGRAM</a>
+    <a href='https://www.linkedin.com/in/himanshu-here/'>LINKEDIN</a>
+    
+
+
   </body>
                                                                                                                                       </html>
                                                                                                                                       
