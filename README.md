@@ -12,9 +12,12 @@
     <meta charset='utf-8'>
   </head>
   <body>
-    <a> href='https://www.hackerrank.com/colonealcortez'</a>
+    <a href='https://www.hackerrank.com/colonealcortez'</a>
+    <br>
     <a href='https://himanshu007-creator.github.io/WEBSITE/'>WEBSITE</a>
+    <br>
     <a href='https://www.instagram.com/_himanshu_325/'>INSTAGRAM</a>
+    <br>
     <a href='https://www.linkedin.com/in/himanshu-here/'>LINKEDIN</a>
     
 
