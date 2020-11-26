@@ -6,7 +6,7 @@
 - 🥅 2020 Goals: Study and contribute to Opensource projects
 - ⚡ Fun fact: I love to travel
 ### Connect with me:
-<!doctype html>
+
 <html>
   <head>
     <meta charset='utf-8'>
