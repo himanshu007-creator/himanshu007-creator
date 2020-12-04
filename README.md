@@ -1,10 +1,11 @@
-### Hi there, I’m HIMANSHU <img src="https://github.com/blackcater/blackcater/raw/master/images/Hi.gif" height="32" />
-## I’m a student,a brother and a son!
-- 🔭 I’m currently pursuing B.TECH @ DAVIET
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other
-- 🥅 2020 Goals: Study and contribute to Opensource projects
-- ⚡ Fun fact: I love to travel
+### Hi! HIMANSHU here <img src="https://github.com/blackcater/blackcater/raw/master/images/Hi.gif" height="32" />
+## DREAM✨ || BELIEVE⚔️ || ACHIEVE🏅
+- 📚 B.TECH SOPHOMORE
+- ⚡ MAJOR- ELECTRONICS AND COMMUNICATION
+- 💻 MINOR- COMPUTER SCIENCE ENG.
+- 💪 SELF-WORK + 🌐NETWORK = DONEWORK✔️
+- 🥅 Goals: Study and contribute to Opensource projects
+- ⚡ Fun fact: I love to learn new things🤓
 <html>
   <head>
     <meta charset='utf-8'>
