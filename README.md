@@ -10,8 +10,7 @@
 <html>
   <head>
     <meta charset='utf-8'>
-  </head>
-  <body>
+<p align="center"><img width="100%" src="https://github-readme-stats.vercel.app/api?username=himanshu007-creator&show_icons=true&theme=tokyonight" /></p>
     <a href='https://www.hackerrank.com/colonealcortez'>👨‍💻HACKERRANK</a>
     <br>
     <a href='https://himanshu007-creator.github.io/WEBSITE/'>🌎WEBSITE</a>
