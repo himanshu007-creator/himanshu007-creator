@@ -5,8 +5,6 @@
 - 👯 I’m looking to collaborate with other
 - 🥅 2020 Goals: Study and contribute to Opensource projects
 - ⚡ Fun fact: I love to travel
-### Connect with me:
-
 <html>
   <head>
     <meta charset='utf-8'>
