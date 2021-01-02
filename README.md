@@ -4,8 +4,10 @@
 - ⚡ MAJOR- ELECTRONICS AND COMMUNICATION
 - 💻 MINOR- COMPUTER SCIENCE ENG.
 - 💪 SELF-WORK + 🌐NETWORK = DONEWORK✔️
-- 🥅 Goals: to learn and create new possibilities for mankind
+- 🥅 Goals: to learn new technologies and form a community to help first-timers
 - ⚡ Fun fact: I love to learn new things🤓
+- 🤺 Competitive coding
+
 <html>
   <head>
     <meta charset='utf-8'>
