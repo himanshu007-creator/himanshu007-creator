@@ -6,7 +6,7 @@
 - 💪 SELF-WORK + 🌐NETWORK = DONEWORK✔️
 - 🥅 Goals: to learn new technologies and form a community to help first-timers
 - ⚡ Fun fact: I love to learn new things🤓
-- 🤺 Competitive coding
+- 🤺 COMPETITIVE PROGRAMMER 
 
 <html>
   <head>
