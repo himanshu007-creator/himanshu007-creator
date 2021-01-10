@@ -1,4 +1,4 @@
-### Hi! Im  HIMANSHU <img src="https://github.com/blackcater/blackcater/raw/master/images/Hi.gif" height="32" />
+### Hi! I AM HIMANSHU <img src="https://github.com/blackcater/blackcater/raw/master/images/Hi.gif" height="32" />
 - 📚 B.TECH SOPHOMORE
 - ⚡ MAJOR- ELECTRONICS AND COMMUNICATION
 - 💻 MINOR- COMPUTER SCIENCE ENG.
