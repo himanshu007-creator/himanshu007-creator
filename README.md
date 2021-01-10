@@ -5,7 +5,7 @@
 - 💻 MINOR- COMPUTER SCIENCE ENG.
 - 💪 SELF-WORK + 🌐NETWORK = DONEWORK✔️
 - 🥅 Goals: to learn new technologies and form a community to help first-timers
-- ⚡ Fun fact: I love to learn new things🤓
+- ⚡ Fun fact: I know ninja technique to make friends:full_moon_with_face:
 - 🤺 COMPETITIVE PROGRAMMER 
 
 <html>
