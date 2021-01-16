@@ -11,10 +11,22 @@
 <html>
   <head>
     <meta charset='utf-8'>
-      
+<details>
+  <summary>:chart_with_upwards_trend: STATS</summary>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=himanshu007-creator&show_icons=true&theme=chartreuse-dark" alt="GitHub Stats" align="center" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshu007-creator&layout=compact&theme=chartreuse-dark&langs_count=6" alt="GitHub Top-Langs" align="center" width="40%" />
+  <br/>
+  <b>Note:</b> This is only a metric of the languages my public code on GitHub consists of and does not reflect my expertise or skill level.
+</details>
 
-<p align="center"><img width="100%" src="https://github-readme-stats.vercel.app/api?username=himanshu007-creator&show_icons=true&theme=tokyonight" /></p>
-   <p align='center'><img width="37.2%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshu007-creator&count_private=true&theme=tokyonight&line_height=52"></p> 
+<details>
+  <summary>:fire: GitHub Streak:fire:</summary>
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=himanshu007-creator&theme=dark&show-icons=true" alt="GitHub Streak" align="center" />
+</details>
+
+<div>
     <a href='https://www.hackerrank.com/colonealcortez'>👨‍💻HACKERRANK</a>
     <br>
     <a href='https://himanshu007-creator.github.io/WEBSITE/'>🌎WEBSITE</a>
@@ -22,11 +34,9 @@
     <a href='https://www.linkedin.com/in/himanshu-here/'>🔗LINKEDIN</a>
     <br>
     <a href='https://www.youtube.com/channel/UCWEmm4gTBJxNwuYmRDP7NLQ?view_as=subscriber'>📹YOUTUBE</a>
-
-
+</div>
 
                                                                                                                         
 <p align=center>                           
-  <img align=center  src="https://visitor-badge.laobi.icu/badge?page_id=himanshu007-creator.sabesansathananthan" alt="Visitors">                     
-</p>
+  <img align=center  src="https://visitor-badge.laobi.icu/badge?page_id=himanshu007-creator.sabesansathananthan" alt="Visitors">       </p>
 <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
