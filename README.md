@@ -8,7 +8,6 @@
 - 🥅 Goals: to learn new technologies and form a community to help first-timers
 - ⚡ Fun fact: I know ninja technique to make friends:full_moon_with_face:
 - 🤺 COMPETITIVE PROGRAMMER 
-
 <html>
   <head>
     <meta charset='utf-8'>
@@ -27,17 +26,9 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=himanshu007-creator&theme=dark&show-icons=true" alt="GitHub Streak" align="center" />
 </details>
 
-<div>
-    <a href='https://www.hackerrank.com/colonealcortez'>👨‍💻HACKERRANK</a>
-    <br>
-    <a href='https://himanshu007-creator.github.io/WEBSITE/'>🌎WEBSITE</a>
-    <br>
-    <a href='https://www.linkedin.com/in/himanshu-here/'>🔗LINKEDIN</a>
-    <br>
-    <a href='https://www.youtube.com/channel/UCWEmm4gTBJxNwuYmRDP7NLQ?view_as=subscriber'>📹YOUTUBE</a>
-</div>
-
-                                                                                                                        
+[![GitHub himanshu007-creator](https://img.shields.io/badge/-himanshu-grey?style=flat-square&logo=Github&logoColor=white&link=https://github.com/himanshu007-creator)](https://github.com/himanshu007-creator)
+[![Linkedin](https://img.shields.io/badge/-Himanshu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/himanshu-here/)](https://www.linkedin.com/in/himanshu-here/)
+[![](https://img.shields.io/badge/Made%20With%20❤️%20By-HIMANSHU-red)](https://github.com/himanshu007-creator)                                                                                                                        
 <p align=center>                           
   <img align=center  src="https://visitor-badge.laobi.icu/badge?page_id=himanshu007-creator.sabesansathananthan" alt="Visitors">       </p>
 <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
