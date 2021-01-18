@@ -28,7 +28,7 @@
 
 [![GitHub himanshu007-creator](https://img.shields.io/badge/-himanshu007creator-grey?style=flat-square&logo=Github&logoColor=white&link=https://github.com/himanshu007-creator)](https://github.com/himanshu007-creator)
 [![Linkedin](https://img.shields.io/badge/-Himanshu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/himanshu-here/)](https://www.linkedin.com/in/himanshu-here/)
-[![YOUTUBE himanshu007](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=HIMANSHU&logoColor=white&link=https://www.youtube.com/channel/UCWEmm4gTBJxNwuYmRDP7NLQ)](https://www.youtube.com/channel/UCWEmm4gTBJxNwuYmRDP7NLQ)  
+[![YOUTUBE himanshu007](https://img.shields.io/badge/HIMANSHU-FF0000?style=flat-square&logo=HIMANSHU&logoColor=white&link=https://www.youtube.com/channel/UCWEmm4gTBJxNwuYmRDP7NLQ)](https://www.youtube.com/channel/UCWEmm4gTBJxNwuYmRDP7NLQ)  
 [![](https://img.shields.io/badge/Made%20With%20❤️%20By-HIMANSHU-red)](https://github.com/himanshu007-creator) 
                                                                       
 <p align=center>                           
