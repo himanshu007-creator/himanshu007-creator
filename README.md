@@ -6,7 +6,7 @@
 - 💻 MINOR-COMPUTER SCIENCE ENG.
 - 🥅 Goals: to <strong>learn new technologies</strong> and <strong>form a community to help first-timers</strong>
 - ⚡ Fun fact: I know ninja technique to make friends:full_moon_with_face:
-[![trophy](https://github-profile-trophy.vercel.app/?username=himanshu007-creator)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=himanshu007-creator&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 <html>
   <head>
     <meta charset='utf-8'>
