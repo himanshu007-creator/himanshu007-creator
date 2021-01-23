@@ -2,10 +2,10 @@
 ### HI! <img src="https://github.com/blackcater/blackcater/raw/master/images/Hi.gif" height="32" />
 ### I AM HIMANSHU 
 - 📚 B.TECH SOPHOMORE (बीटैक)
-- ⚡ MAJOR-ELECTRONICS AND COMMUNICATION
-- 💻 MINOR-COMPUTER SCIENCE ENG.
+- ⚡ MAJOR-ELECTRONICS AND COMMUNICATION  💻 MINOR-COMPUTER SCIENCE 
 - 🥅 Goals: to <strong>learn new technologies</strong> and <strong>form a community to help first-timers</strong>
-- ⚡ Fun fact: I know ninja technique to make friends:full_moon_with_face:
+- ⚡ Fun fact:I love meeting new people and making connections:full_moon_with_face:
+- 📦 I love opensource! [<a href="https://hacktoberfest.digitalocean.com/">HACKTOBERFEST</a>,&nbsp;<a href="https://devscript.tech/woc/">DWOC</a>,&nbsp;<a href="https://swoc.tech/#:~:text=About%20SWOC,problem%2Dsolving%20in%20real%20time.">SWOC</a>]
  
 ![trophy](https://github-profile-trophy.vercel.app/?username=himanshu007-creator&theme=onedark)
 <html>
