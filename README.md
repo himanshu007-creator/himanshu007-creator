@@ -17,6 +17,69 @@
   <img src="https://github-readme-stats.vercel.app/api?username=himanshu007-creator&show_icons=true&theme=chartreuse-dark" alt="GitHub Stats" align="center" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshu007-creator&layout=compact&theme=chartreuse-dark&langs_count=6" alt="GitHub Top-Langs" align="center" width="40%" />
   <br/>
+ <!--START_SECTION:waka-->
+
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning    8 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   5.76% 
+🌆 Daytime    22 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.83% 
+🌃 Evening    103 commits    ██████████████████░░░░░░░   74.1% 
+🌙 Night      6 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   4.32%
+
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday       25 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.99% 
+Tuesday      27 commits     ████░░░░░░░░░░░░░░░░░░░░░   19.42% 
+Wednesday    18 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.95% 
+Thursday     25 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.99% 
+Friday       24 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.27% 
+Saturday     10 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.19% 
+Sunday       10 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.19%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Europe/Madrid
+
+💬 Programming Languages: 
+JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0%
+
+🔥 Editors: 
+VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0%
+
+🐱‍💻 Projects: 
+Node Cero a Experto      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0%
+
+💻 Operating System: 
+Windows                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0%
+
+```
+
+**I Mostly Code in TypeScript** 
+
+```text
+TypeScript               6 repos             ██████████░░░░░░░░░░░░░░░   42.86% 
+HTML                     3 repos             █████░░░░░░░░░░░░░░░░░░░░   21.43% 
+JavaScript               3 repos             █████░░░░░░░░░░░░░░░░░░░░   21.43% 
+CSS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   7.14% 
+Python                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   7.14%
+
+```
+
+
+**Timeline**
+
+![Chart not found](https://raw.githubusercontent.com/minoveaz/minoveaz/master/charts/bar_graph.png) 
+
+
+<!--END_SECTION:waka-->
   <b>Note:</b> This is only a metric of the languages my public code on GitHub consists of and does not reflect my expertise or skill level.
 </details>
 
