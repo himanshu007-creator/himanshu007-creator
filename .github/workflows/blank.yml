@@ -1,18 +1,16 @@
+name: Waka Readme
 
-name: Waka - Readme
-  # You may pin to the exact commit or the version.
-  # uses: athul/waka-readme@1f2d0f1334ec066ef92b9eaf14242cd062bcd254
-  uses: athul/waka-readme@v0.1.5
-  with:
-    # GitHub access token with Repo scope
-    GH_TOKEN: # default is ${{ github.token }}
-    # Your Wakatime API Key
-    WAKATIME_API_KEY: 
-    # Your GitHub repository
-    REPOSITORY: # optional, default is ${{ github.repository }}
-    # Displays the week number and days in Readme as title
-    SHOW_TITLE: # optional
-    # Add a commit message of your choice
-    COMMIT_MESSAGE: # optional, default is Updated the Graph with new Metrics
-    # Add the progress blocks of your choice
-    BLOCKS: # optional, default is ░▒▓█
+on:
+  schedule:
+    # Runs at 12am IST
+    - cron: '30 18 * * *'
+
+jobs:
+  update-readme:
+    name: Update Readme with Metrics
+    runs-on: ubuntu-latest
+    steps:
+      - uses: himanshu007-creator/waka-readme-stats@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
