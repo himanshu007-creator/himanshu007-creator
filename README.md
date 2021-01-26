@@ -50,13 +50,6 @@ Python                   1 repo              █░░░░░░░░░░�
 C++                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   7.14%
 
 ```
-
-
-**Timeline**
-
-![Chart not found](https://raw.githubusercontent.com/minoveaz/minoveaz/master/charts/bar_graph.png) 
-
-
 <!--END_SECTION:waka-->
   <b>Note:</b> This is only a metric of the languages my public code on GitHub consists of and does not reflect my expertise or skill level.
 </details>
