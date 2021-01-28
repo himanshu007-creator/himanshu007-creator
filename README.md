@@ -30,6 +30,7 @@
 [![Linkedin](https://img.shields.io/badge/-Himanshu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/himanshu-here/)](https://www.linkedin.com/in/himanshu-here/)
 [![YOUTUBE himanshu007](https://img.shields.io/badge/Himanshu-FF0000?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCWEmm4gTBJxNwuYmRDP7NLQ)](https://www.youtube.com/channel/UCWEmm4gTBJxNwuYmRDP7NLQ)  
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:addyjeridiq@gmail.com)](addyjeridiq@gmail.com)
+[![Twitter Badge](https://img.shields.io/twitter/follow/Himanshu?style=social)](https://twitter.com/_himanshu_325) 
 [![](https://img.shields.io/badge/Made%20With%20❤️%20By-HIMANSHU-red)](https://github.com/himanshu007-creator) 
  
 <p> :computer:
