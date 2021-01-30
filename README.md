@@ -5,7 +5,7 @@
 - ⚡ MAJOR-ELECTRONICS AND COMMUNICATION  💻 MINOR-COMPUTER SCIENCE 
 - 🥅 Goals: to <strong>learn new technologies</strong> and <strong>form a community to help first-timers</strong>
 - ⚡ Fun fact:I love meeting new people and making connections:full_moon_with_face:
-- 📦 I love opensource! [<a href="https://hacktoberfest.digitalocean.com/">HACKTOBERFEST</a>,&nbsp;<a href="https://devscript.tech/woc/">D'WoC</a>,&nbsp;<a href="https://swoc.tech/#:~:text=About%20SWOC,problem%2Dsolving%20in%20real%20time.">S'WoC</a>, <a href="https://crosswoc.ieeedtu.in/#">C'WoC</a>
+- 📦 I love opensource! [<a href="https://hacktoberfest.digitalocean.com/">HACKTOBERFEST</a>,&nbsp;<a href="https://devscript.tech/woc/">D'WoC</a>,&nbsp;<a href="https://swoc.tech/#:~:text=About%20SWOC,problem%2Dsolving%20in%20real%20time.">S'WoC</a>, <a href="https://crosswoc.ieeedtu.in/#">C'WoC</a>]
  
 ![trophy](https://github-profile-trophy.vercel.app/?username=himanshu007-creator&theme=onedark)
 <html>
