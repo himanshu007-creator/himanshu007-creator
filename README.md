@@ -25,9 +25,9 @@
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=himanshu007-creator&theme=dark&show-icons=true" alt="GitHub Streak" align="center" />
 </details>
+<!---[![codechef badge](https://img.shields.io/badge/(USERNAME)-30302f?style=flat&logo=codechef)]    this will be updated once i start using codechef regularly🤷‍♂️-->
 
 [![hackerrank badge](https://img.shields.io/badge/Himanshu-30302f?style=flat&logo=hackerrank)](https://www.hackerrank.com/colonealcortez)
-<!---[![codechef badge](https://img.shields.io/badge/(USERNAME)-30302f?style=flat&logo=codechef)]    this will be updated once i start using codechef regularly🤷‍♂️-->
 [![GitHub himanshu007-creator](https://img.shields.io/badge/-himanshu007creator-grey?style=flat-square&logo=Github&logoColor=white&link=https://github.com/himanshu007-creator)](https://github.com/himanshu007-creator)
 [![Linkedin](https://img.shields.io/badge/-Himanshu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/himanshu-here/)](https://www.linkedin.com/in/himanshu-here/)
 [![YOUTUBE himanshu007](https://img.shields.io/badge/Himanshu-FF0000?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCWEmm4gTBJxNwuYmRDP7NLQ)](https://www.youtube.com/channel/UCWEmm4gTBJxNwuYmRDP7NLQ)  
