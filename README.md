@@ -25,6 +25,15 @@
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=himanshu007-creator&theme=dark&show-icons=true" alt="GitHub Streak" align="center" />
 </details>
+<details>
+ <summary>🔰BADGES🔰</summary>
+ <div>
+ <img src="badges/Badge.jpg" height="200px" width="200px">
+  <img src="badges/himanshu007-creator.png" height="200px" width="300px">
+  <img src="badges/node congress.png" height="200px" width="300px">
+  
+ </div> 
+ </details>
 <!---[![codechef badge](https://img.shields.io/badge/(USERNAME)-30302f?style=flat&logo=codechef)]    this will be updated once i start using codechef regularly🤷‍♂️-->
 
 [![hackerrank badge](https://img.shields.io/badge/Himanshu-30302f?style=flat&logo=hackerrank)](https://www.hackerrank.com/colonealcortez)
