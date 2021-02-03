@@ -29,8 +29,8 @@
  <summary>🔰BADGES🔰</summary>
  <div>
  <img src="badges/Badge.jpg" height="200px" width="200px">
-  <img src="badges/himanshu007-creator.png" height="200px" width="300px">
-  <img src="badges/node congress.png" height="200px" width="300px">
+  <img src="badges/himanshu007-creator.png" height="200px" width="330px">
+  <img src="badges/node congress.png" height="200px" width="330px">
   
  </div> 
  </details>
