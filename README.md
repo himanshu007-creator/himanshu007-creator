@@ -40,7 +40,7 @@
 [![hackerrank badge](https://img.shields.io/badge/Himanshu-30302f?style=flat&logo=hackerrank)](https://www.hackerrank.com/colonealcortez)
 [![GitHub himanshu007-creator](https://img.shields.io/badge/-himanshu007creator-grey?style=flat&logo=Github&logoColor=white&link=https://github.com/himanshu007-creator)](https://github.com/himanshu007-creator)[![Linkedin](https://img.shields.io/badge/-Himanshu-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/himanshu-here/)](https://www.linkedin.com/in/himanshu-here/)[![YOUTUBE himanshu007](https://img.shields.io/badge/Himanshu-FF0000?style=flat&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCWEmm4gTBJxNwuYmRDP7NLQ)](https://www.youtube.com/channel/UCWEmm4gTBJxNwuYmRDP7NLQ)[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:addyjeridiq@gmail.com)](addyjeridiq@gmail.com)[![Twitter Badge](https://img.shields.io/twitter/follow/_himanshu_325?style=social)](https://twitter.com/_himanshu_325) 
 
-[![](https://img.shields.io/badge/Made%20With%20❤️%20By-HIMANSHU-red)](https://github.com/himanshu007-creator) 
+<div align="center"><a href=""><img src="https://img.shields.io/badge/Made%20With%20❤️%20By-HIMANSHU-red"></a></div>
  
 <p><img src="https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff"> <img src="https://img.shields.io/badge/-Python%203-black?style=flat&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/-JavaScript-ffa804?style=flat&logo=javascript&logoColor=ffffff"> 
 <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white"> 
