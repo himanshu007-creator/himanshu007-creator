@@ -5,5 +5,5 @@
   with:
     # Token for the repo. Can be passed in using {{ secrets.GITHUB_TOKEN }}
     repo-token: 
- CONGRATULATIONS... for your first contribution , see ya around
+    CONGRATULATIONS... for your first contribution , see ya around
     greeting: HEYA!
