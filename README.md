@@ -1,4 +1,3 @@
-Sakshi was here
 
 ![](party.gif)
 ### HI! <img src="https://github.com/blackcater/blackcater/raw/master/images/Hi.gif" height="32" />
