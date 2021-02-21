@@ -1,7 +1,7 @@
 
 ![](party.gif)
 ### HI! <img src="https://github.com/blackcater/blackcater/raw/master/images/Hi.gif" height="32" />
-<div align="center"><img height="100px" width="80%" src="notice.gif"></div>
+<div align="center"><img height="100px" width="80%" src="MSG.gif"></div>
 
 <!-- ### I AM HIMANSHU--> 
 - 📚 B.TECH SOPHOMORE (बीटैक)
