@@ -4,7 +4,7 @@
 <div align="center"><img height="100px" width="80%" src="MSG.gif"></div>
 
 <!-- ### I AM HIMANSHU--> 
-- 📚 B.TECH SOPHOMORE (बीटैक)
+- 📚 B.TECH SOPHOMORE (बीटैक) undergrad <a href="https://www.davietjal.org/">@DAVIET</a> college
 - ⚡ MAJOR-ELECTRONICS AND COMMUNICATION  💻 MINOR-COMPUTER SCIENCE 
 - 🥅 Goals: to <strong>learn new technologies</strong> and <strong>form a community to help first-timers</strong>
 - ⚡ Fun fact:I love meeting new people and making connections:full_moon_with_face:
