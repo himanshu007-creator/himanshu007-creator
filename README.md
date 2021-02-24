@@ -64,5 +64,4 @@ No Activity tracked this Week
   <img align=center  src="https://visitor-badge.laobi.icu/badge?page_id=himanshu007-creator.sabesansathananthan" alt="Visitors">       </p>
 <a href="https://github.com/himanshu007-creator?tab=repositories"><h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3></a>
 
-![](himanshu007-creator-2020.stl)
 <img src="footer.gif" height="100px" width="100%">
