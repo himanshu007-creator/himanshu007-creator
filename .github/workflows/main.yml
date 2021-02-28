@@ -4,6 +4,5 @@
   uses: JJ/issue-greeting-action@releases/v1
   with:
     # Token for the repo. Can be passed in using {{ secrets.GITHUB_TOKEN }}
-    repo-token: 
-    CONGRATULATIONS... for your first contribution , see ya around
-    greeting: HEYA!
+    repo-token: "CONGRATULATIONS... for your first contribution , see ya around"
+    greeting: "HEYA!"
