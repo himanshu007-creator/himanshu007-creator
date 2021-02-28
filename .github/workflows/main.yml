@@ -1,7 +1,25 @@
-- name: Robs Greeting
+- name: Welcome New Users
   # You may pin to the exact commit or the version.
-  # uses: Robs-Organisation/Robs-action@7750e6bcb80ccb1b5908e4f290516e89620ecf18
-  uses: Robs-Organisation/Robs-action@v1.7
+  # uses: bubkoo/welcome-action@8dbbac2540d155744c90e4e37da6b05ffc9c5e2c
+  uses: bubkoo/welcome-action@v1.0.3
   with:
-    # Who to greet
-    who-to-greet: # default is World
+    # Your GitHub token for authentication.
+    GITHUB_TOKEN: 
+    # Comment to be posted to on first time issues.
+    FIRST_ISSUE: # optional
+    # Comment to be posted to on first time issues.
+    FIRST_ISSUE_COMMENT: # optional
+    # Reactions to be add to comment on first time issues.
+    FIRST_ISSUE_REACTIONS: # optional
+    # Comment to be posted to on PRs from first time contributors in your repository.
+    FIRST_PR: # optional
+    # Comment to be posted to on PRs from first time contributors in your repository.
+    FIRST_PR_COMMENT: # optional
+    # Reactions to be add to comment on PRs from first time contributors in your repository.
+    FIRST_PR_REACTIONS: # optional
+    # Comment to be posted to on pull requests merged by a first time user.
+    FIRST_PR_MERGED: # optional
+    # Comment to be posted to on pull requests merged by a first time user.
+    FIRST_PR_MERGED_COMMENT: # optional
+    # Reactions to be add to comment on pull requests merged by a first time user.
+    FIRST_PR_MERGED_REACTIONS: # optional
