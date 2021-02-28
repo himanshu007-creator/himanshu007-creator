@@ -1,4 +1,4 @@
-- name: First issue greeter
+name: First issue greeter
   # You may pin to the exact commit or the version.
   # uses: JJ/issue-greeting-action@01953a8c191056b059c8dbc667d833aa082fd865
   uses: JJ/issue-greeting-action@releases/v1
