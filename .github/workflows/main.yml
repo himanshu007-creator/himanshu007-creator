@@ -1,8 +1,7 @@
-name: First issue greeter
+- name: Robs Greeting
   # You may pin to the exact commit or the version.
-  # uses: JJ/issue-greeting-action@01953a8c191056b059c8dbc667d833aa082fd865
-  uses: JJ/issue-greeting-action@releases/v1
+  # uses: Robs-Organisation/Robs-action@7750e6bcb80ccb1b5908e4f290516e89620ecf18
+  uses: Robs-Organisation/Robs-action@v1.7
   with:
-    # Token for the repo. Can be passed in using {{ secrets.GITHUB_TOKEN }}
-    repo-token: "CONGRATULATIONS... for your first contribution , see ya around"
-    greeting: "HEYA!"
+    # Who to greet
+    who-to-greet: # default is World
