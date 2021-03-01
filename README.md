@@ -60,7 +60,7 @@ No Activity tracked this Week
 <img src="https://img.shields.io/badge/-BASH-lightgrey">  
   
   
-  <img align=center  src="https://visitor-badge.laobi.icu/badge?page_id=himanshu007-creator.sabesansathananthan" alt="Visitors">       </p>
+  <img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=himanshu007-creator.sabesansathananthan" alt="Visitors">       </p>
 <a href="https://github.com/himanshu007-creator?tab=repositories"><h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3></a>
 <div align="center"><a href="https://www.buymeacoffee.com/himanshu007"><img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="HIMANSHU" /></a></div>
 <img src="footer.gif" height="100px" width="100%">
