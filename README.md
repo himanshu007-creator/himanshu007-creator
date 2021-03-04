@@ -8,7 +8,7 @@
 - ⚡ MAJOR-ELECTRONICS AND COMMUNICATION  💻 MINOR-COMPUTER SCIENCE 
 - 🥅 Goals: to <strong>learn new technologies</strong> and <strong>form a community to help first-timers</strong>
 - ⚡ Fun fact:I love meeting new people and making connections:full_moon_with_face:
-- 📦 I love opensource! [<a href="https://hacktoberfest.digitalocean.com/">HACKTOBERFEST</a>,&nbsp; <a href="https://gssoc.girlscript.tech/index.html">GSSOC'21</a>, <a href="https://devscript.tech/woc/leaderboard/">D'WoC</a>,&nbsp;<a href="https://swoc.tech/#:~:text=About%20SWOC,problem%2Dsolving%20in%20real%20time.">S'WoC</a>, <a href="https://crosswoc.ieeedtu.in/#">C'WoC</a>]
+- 📦 I love opensource!-> [<a href="https://hacktoberfest.digitalocean.com/">HACKTOBERFEST</a>,&nbsp; <a href="https://gssoc.girlscript.tech/index.html">GSSOC'21</a>, <a href="https://devscript.tech/woc/leaderboard/">D'WoC</a>,&nbsp;<a href="https://swoc.tech/#:~:text=About%20SWOC,problem%2Dsolving%20in%20real%20time.">S'WoC</a>, <a href="https://crosswoc.ieeedtu.in/#">C'WoC</a>]
 <!--this is good as well [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=himanshu007-creator)](https://github.com/himanshu007-creator/github-readme-stats)---><!--- this one looks good, but not much useful![trophy](https://github-profile-trophy.vercel.app/?username=himanshu007-creator&theme=onedark)-->
 <html>
   <head>
@@ -39,10 +39,11 @@
  </details>
 <!--NOTE TO SELF  MAKE YOUR DS & ALGO STRONG!!, GET STARTED!>
 <!---[![codechef badge](https://img.shields.io/badge/(USERNAME)-30302f?style=flat&logo=codechef)]    this will be updated once i start using codechef regularly🤷‍♂️-->
-
+<div align="center">
 <a href="https://discord.gg/DAaR9NvzKh">
     <img src="https://img.shields.io/badge/Chat-GARRYNADE%E2%84%A2-green" />
   </a>
+  </div>
   
 [![hackerrank badge](https://img.shields.io/badge/Himanshu-30302f?style=flat&logo=hackerrank)](https://www.hackerrank.com/colonealcortez)
 [![GitHub himanshu007-creator](https://img.shields.io/badge/-himanshu007creator-grey?style=flat&logo=Github&logoColor=white&link=https://github.com/himanshu007-creator)](https://github.com/himanshu007-creator)[![Linkedin](https://img.shields.io/badge/-Himanshu-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/himanshu-here/)](https://www.linkedin.com/in/himanshu-here/)[![YOUTUBE himanshu007](https://img.shields.io/badge/Himanshu-FF0000?style=flat&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCWEmm4gTBJxNwuYmRDP7NLQ)](https://www.youtube.com/channel/UCWEmm4gTBJxNwuYmRDP7NLQ)[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:addyjeridiq@gmail.com)](addyjeridiq@gmail.com)[![Twitter Badge](https://img.shields.io/twitter/follow/_himanshu_325?style=social)](https://twitter.com/_himanshu_325) [![RANK](https://img.shields.io/badge/-Coder's%20Rank-green)](https://profile.codersrank.io/user/himanshu007-creator)
