@@ -36,13 +36,7 @@
   
  </div> 
  </details>
- 
-<!--START_SECTION:waka-->
-```text
-No Activity tracked this Week
-```
-<!--END_SECTION:waka-->
-
+<!--NOTE TO SELF  MAKE YOUR DS & ALGO STRONG!!, GET STARTED!>
 <!---[![codechef badge](https://img.shields.io/badge/(USERNAME)-30302f?style=flat&logo=codechef)]    this will be updated once i start using codechef regularly🤷‍♂️-->
 
 <a href="https://discord.gg/DAaR9NvzKh">
