@@ -25,8 +25,8 @@
 <details>     
   <summary>:fire: GitHub Streak:fire:</summary>
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=himanshu007-creator&theme=dark&show-icons=true" alt="GitHub Streak" align="center" />
-  <img src="https://activity-graph.herokuapp.com/graph?username=himanshu007-creator&theme=xcode" alt="ACTIVITY" align="center" />
+  <div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=himanshu007-creator&theme=dark&show-icons=true" alt="GitHub Streak"  /></div>
+  <div align="center"><img src="https://activity-graph.herokuapp.com/graph?username=himanshu007-creator&theme=xcode" alt="ACTIVITY" /></div>
 </details>
 <details>
  <summary>🔰BADGES🔰</summary>
