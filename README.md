@@ -8,8 +8,10 @@
 - ⚡ MAJOR-ELECTRONICS AND COMMUNICATION  💻 MINOR-COMPUTER SCIENCE 
 - 🥅 Goals: to <strong>learn new technologies</strong> and <strong>form a community to help first-timers</strong>
 - ⚡ Fun fact:I love meeting new people and making connections:full_moon_with_face:
+- 💬 Ask me about Anything [here](mailto:addyjeridiq@gmail.com)! I am happy to help.
 - 📦 Open-source events -> [<a href="https://hacktoberfest.digitalocean.com/">HACKTOBERFEST</a>,&nbsp; <a href="https://gssoc.girlscript.tech/index.html">GSSOC'21</a>, <a href="https://devscript.tech/woc/leaderboard/">D'WoC</a>,&nbsp;<a href="https://swoc.tech/#:~:text=About%20SWOC,problem%2Dsolving%20in%20real%20time.">S'WoC</a>, <a href="https://crosswoc.ieeedtu.in/#">C'WoC</a>, <a href="https://mexili.org/winter_of_code/#/winter_of_code">M'WoC</a> ]
 - 🖥 #2631 in <a href="https://codingcompetitions.withgoogle.com/kickstart">GOOGLE kickstart</a> round H
+- ✍ Check out my blogs <a href="https://fuhrer777144529.wordpress.com/">here</a> ( pssst, they are not technical ones🙂)
 <!--this is good as well [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=himanshu007-creator)](https://github.com/himanshu007-creator/github-readme-stats)---><!--- this one looks good, but not much useful![trophy](https://github-profile-trophy.vercel.app/?username=himanshu007-creator&theme=onedark)-->
 <html>
   <head>
