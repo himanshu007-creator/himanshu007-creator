@@ -1,8 +1,6 @@
-
 ![](header.gif)
-### HI! <img src="https://github.com/blackcater/blackcater/raw/master/images/Hi.gif" height="32" />
+### HI! <img src="https://github.com/blackcater/blackcater/raw/master/images/Hi.gif" height="32" /> I am HIMANSHU from INDIA <img src="https://github.com/Iamtripathisatyam/iamtripathisatyam/blob/master/Content/flag.gif" width="30px">
 <!---div align="center"><img height="100px" width="80%" src="MSG.gif"></div>--->
-
 <!-- ### I AM HIMANSHU--> 
 - 📚 B.TECH SOPHOMORE (बीटैक) <a href="https://www.davietjal.org/">@DAVIET</a> college
 - ⚡ MAJOR-ELECTRONICS AND COMMUNICATION  💻 MINOR-COMPUTER SCIENCE 
@@ -30,6 +28,7 @@
   <br/>
   <div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=himanshu007-creator&theme=dark&show-icons=true" alt="GitHub Streak"  /></div>
   <div align="center"><img src="https://activity-graph.herokuapp.com/graph?username=himanshu007-creator&theme=xcode" alt="ACTIVITY" /></div>
+   <div align="center"><img src="https://github-profile-trophy.vercel.app/?username=himanshu007-creator&theme=gruvbox"/></div>
 </details>
 <details>
  <summary>🔰BADGES🔰</summary>
@@ -58,9 +57,31 @@
 <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white"> 
 <img src="https://img.shields.io/badge/-BASH-lightgrey">
 <img src="https://img.shields.io/badge/-PHP-blue">
-<img src="https://img.shields.io/badge/-XML-yellow">  
+<img src="https://img.shields.io/badge/-XML-yellow"> 
+<img src="https://img.shields.io/badge/CANVA-DESIGNING-green.svg?label=CANVA&style=social&logo=canva&logoColor=informational">
   
-  
+  <table align="center">
+    <thead align="center">
+        <tr border: none;>
+            <td><b>🖥️ Projects</b></td>
+            <td><b>🌟 Stars</b></td>
+            <td><b>🍴 Forks</b></td>
+            <td><b>🐛 Issues</b></td>
+            <td><b>🔔 Pull Requests</b></td>
+            <td><b>👨‍💻 Language</b></td>
+        </tr>
+     </thead>
+    <tbody>
+  <tr>
+            <td><a href="https://github.com/himanshu007-creator/SFC-foundations"</a><b>SFC-FOUNDATIONS</b></td>
+            <td><img alt="Stars"src="https://img.shields.io/github/stars/himanshu007-creator/SFC-foundations?style=flat-square&labelColor=343b41"/></td>
+            <td><img alt="Forks"src="https://img.shields.io/github/forks/himanshu007-creator/SFC-foundations?style=flat-square&labelColor=343b41"/></td>
+            <td><img alt="Issues"src="https://img.shields.io/github/issues/himanshu007-creator/SFC-foundations?style=flat-square&labelColor=343b41"/></td>
+            <td><img alt="Pull Requests"src="https://img.shields.io/github/issues-pr/himanshu007-creator/SFC-foundations?style=flat-square"/></td>
+            <td><img alt="Language"src="https://img.shields.io/github/languages/top/himanshu007-creator/SFC-foundations?label=Html&style=flat-square"/></td>
+       </tr>
+    </tbody>        
+</table>
   
   <div><p align="center"><img  src="https://visitor-badge.laobi.icu/badge?page_id=himanshu007-creator.sabesansathananthan" alt="Visitors"></p></div>
 
