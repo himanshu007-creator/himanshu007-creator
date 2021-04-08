@@ -60,6 +60,9 @@
 <img src="https://img.shields.io/badge/-XML-yellow"> 
 <img src="https://img.shields.io/badge/CANVA-DESIGNING-green.svg?label=CANVA&style=social&logo=canva&logoColor=informational">
   
+  <br>
+  <br>
+  
   <table align="center">
     <thead align="center">
         <tr border: none;>
@@ -82,9 +85,11 @@
        </tr>
     </tbody>        
 </table>
-  
+  <br>
+  <br>
+  <br>
   <div><p align="center"><img  src="https://visitor-badge.laobi.icu/badge?page_id=himanshu007-creator.sabesansathananthan" alt="Visitors"></p></div>
-
+<br>
 <a href="https://github.com/himanshu007-creator?tab=repositories"><h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3></a>
 <!---
 <div ><p align="center" ><a href="https://www.buymeacoffee.com/himanshu007"><img  src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="HIMANSHU" /></a></p></div>
