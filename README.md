@@ -73,4 +73,5 @@
 <div ><p align="center" ><a href="https://www.buymeacoffee.com/himanshu007"><img  src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="HIMANSHU" /></a></p></div>
 <div align="center">WORKING ON IT...</div>
 --->
+<img src="ftr.gif" width="100%" height="200px"/>
 
