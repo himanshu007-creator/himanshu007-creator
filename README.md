@@ -1,8 +1,9 @@
 ![](hdr.gif)
 <h1><samp>HI<img src="https://github.com/blackcater/blackcater/raw/master/images/Hi.gif" height="32" />, I am Himanshu from INDIA <img src="https://github.com/Iamtripathisatyam/iamtripathisatyam/blob/master/Content/flag.gif" width="30px"></samp></h1>
 <!---div align="center"><img height="100px" width="80%" src="MSG.gif"></div>--->
-<div>
+<div align="center">
   <img align="center" height="500px" width="460px" src="secret.png">
+  </div>
 <table style="float:left;">
   <tr><td><img src="https://img.icons8.com/fluent/60/000000/gta-5.png"/></td><td><samp><a href="https://github.com/issues?q=is%3Aopen+is%3Aissue+archived%3Afalse+author%3Ahimanshu007-creator">Resume Game</a></samp></td></tr>
   <tr><td><img src="https://img.icons8.com/fluent/48/000000/rockstar-social-club.png"/></td><td><samp> B.TECH SOPHOMORE (बीटैक) <a href="https://www.davietjal.org/">@DAVIET</a> college</samp></td></tr>
@@ -35,7 +36,7 @@
 </samp> </td></tr>
 </table>
 
-  </div>
+ 
 
 <!--NOTE TO SELF  MAKE YOUR DS & ALGO STRONG!!, GET STARTED!>
 <!---[![codechef badge](https://img.shields.io/badge/(USERNAME)-30302f?style=flat&logo=codechef)]    this will be updated once i start using codechef regularly🤷‍♂️-->
