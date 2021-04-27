@@ -13,7 +13,7 @@
   <tr><td><img src="https://img.icons8.com/cotton/40/000000/computer.png"/></td><td><samp> <details>
   <summary>:chart_with_upwards_trend: STATS</summary>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=himanshu007-creator&show_icons=true&theme=chartreuse-dark" alt="GitHub Stats" align="center" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=himanshu007-creator&count_private=true&show_icons=true&hide_title=true&include_all_commits=true&theme=chartreuse-dark" alt="GitHub Stats" align="center" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshu007-creator&layout=compact&theme=chartreuse-dark&langs_count=6" alt="GitHub Top-Langs" align="center" width="40%" />
   <br/>
   <b>Note:</b> This is only a metric of the languages my public code on GitHub consists of and does not reflect my expertise or skill level.
