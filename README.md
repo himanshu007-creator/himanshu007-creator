@@ -1,5 +1,5 @@
 ![](hdr.gif)
-<div align="center"><h1><samp>HI<img src="https://github.com/blackcater/blackcater/raw/master/images/Hi.gif" height="32" />, I am Himanshu from INDIA <img src="https://github.com/Iamtripathisatyam/iamtripathisatyam/blob/master/Content/flag.gif" width="30px"></samp></h1></div>
+<div align="center"><h1><samp>HI👋, I am Himanshu from INDIA <img src="https://github.com/Iamtripathisatyam/iamtripathisatyam/blob/master/Content/flag.gif" width="30px"></samp></h1></div>
 <!---div align="center"><img height="100px" width="80%" src="MSG.gif"></div>--->
 <div align="center">
   <img align="center" height="200px" width="230px" src="secret.png">
