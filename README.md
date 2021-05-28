@@ -28,7 +28,7 @@
    <div align="center"><img src="https://github-profile-trophy.vercel.app/?username=himanshu007-creator&theme=gruvbox"/></div>
 </details></samp> </td></tr>
   <tr><td><img src="https://img.icons8.com/color/40/000000/instagram-verification-badge.png"/></td><td><samp> <details><summary>Socials</summary><div>
-  <span><a href="https://www.hackerrank.com/colonealcortez"><img src="https://img.shields.io/badge/Himanshu-30302f?style=flat&logo=hackerrank"/></a></span><br>
+  <!--<span><a href="https://www.hackerrank.com/colonealcortez"><img src="https://img.shields.io/badge/Himanshu-30302f?style=flat&logo=hackerrank"/></a></span><br>-->
    <span><a href="https://github.com/himanshu007-creator"><img src="https://img.shields.io/badge/-himanshu007creator-grey?style=flat&logo=Github&logoColor=white&link=https://github.com/himanshu007-creator"/></a></span><br>
    <span><a href="https://www.linkedin.com/in/himanshu-here/"><img src="https://img.shields.io/badge/-Himanshu-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/himanshu-here/"/></a></span><br>
    <span><a href="https://www.youtube.com/channel/UCWEmm4gTBJxNwuYmRDP7NLQ"><img src="https://img.shields.io/badge/Himanshu-FF0000?style=flat&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCWEmm4gTBJxNwuYmRDP7NLQ)"/></a></span>  
