@@ -33,6 +33,7 @@
    <span><a href="https://www.linkedin.com/in/himanshu-here/"><img src="https://img.shields.io/badge/-Himanshu-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/himanshu-here/"/></a></span><br>
    <span><a href="https://www.youtube.com/channel/UCWEmm4gTBJxNwuYmRDP7NLQ"><img src="https://img.shields.io/badge/Himanshu-FF0000?style=flat&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCWEmm4gTBJxNwuYmRDP7NLQ)"/></a></span>  
    <span><a href="addyjeridiq@gmail.com)"><img src="(https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:addyjeridiq@gmail.com"/></a></span><br>
+    <span><a href="https://instagram.com/_himanshu_325"><img src="https://img.shields.io/badge/_himanshu_325-E4405F?style=flat&logo=instagram&logoColor=white"/></a></span><br>
   <span><a href="https://twitter.com/_himanshu_325"><img src="https://img.shields.io/twitter/follow/_himanshu_325?style=social"/></a></span><br>
     <span><a href="https://profile.codersrank.io/user/himanshu007-creator"><img src="https://img.shields.io/badge/-Coder's%20Rank-green"/></a></span></div></details>
 </samp> </td></tr>
