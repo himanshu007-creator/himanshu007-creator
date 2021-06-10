@@ -67,7 +67,7 @@
             <td><img alt="Language"src="https://img.shields.io/github/languages/top/himanshu007-creator/SFC-foundations?label=Html&style=flat-square"/></td>
        </tr>
       <tr>
-        <td><a href="https://www.facebook.com/sparkarhub/effects/690562661704018/overview/">GTA_AR effect🖼</a></td>
+        <td><a href="https://www.facebook.com/sparkarhub/effects/690562661704018/overview/"><b>GTA_AR effect🖼</b></a></td>
         <td>Instagram effect to celebrate vaccination <strong>GTA</strong> style</td>
         <td colspan="4" align="center">Try it here https://rb.gy/qsvcvj</td>
       </tr>
