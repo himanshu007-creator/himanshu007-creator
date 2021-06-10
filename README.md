@@ -41,8 +41,7 @@
   <summary>GitHub Streak:fire:</summary>
   <br/>
   <div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=himanshu007-creator&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" alt="GitHub Streak"  /></div>
-   <div align="center"><img src="https://github-profile-trophy.vercel.app/?username=himanshu007-creator&theme=  <div align="center"><img src="https://activity-graph.herokuapp.com/graph?username=himanshu007-creator&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" alt="ACTIVITY" /></div>
-"/></div>
+   <div align="center"><img src="https://github-profile-trophy.vercel.app/?username=himanshu007-creator&theme=  <div align="center"><img src="https://activity-graph.herokuapp.com/graph?username=himanshu007-creator&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" alt="ACTIVITY" /></div></div>
 </details></samp> </td></tr>
   <tr><td><img src="https://img.icons8.com/color/40/000000/instagram-verification-badge.png"/></td><td><samp> <details><summary>Socials</summary><div>
   <!--<span><a href="https://www.hackerrank.com/colonealcortez"><img src="https://img.shields.io/badge/Himanshu-30302f?style=flat&logo=hackerrank"/></a></span><br>-->
