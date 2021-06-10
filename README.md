@@ -10,6 +10,23 @@
   <tr><td><img src="https://img.icons8.com/fluent/48/000000/rockstar-social-club.png"/></td><td><samp> B.TECH SOPHOMORE (बीटैक) <a href="https://www.davietjal.org/">@DAVIET</a> college</samp></td></tr>
   <tr><td><img src="https://img.icons8.com/fluent/48/000000/rockstar-social-club.png"/></td><td> <samp> <details><summary>Fields</summary><div><span>⚡ MAJOR-ELECTRONICS AND COMMUNICATION </span><br><span>💻 MINOR-COMPUTER SCIENCE </span></div></details></samp> </td></tr>
     <tr><td><img src="https://img.icons8.com/fluent/48/000000/rockstar-social-club.png"/></td><td><samp><details><summary>Missions passed</summary><div><span><a href="https://hacktoberfest.digitalocean.com/">HACKTOBERFEST</a></span><br><span><a href="https://devscript.tech/woc/leaderboard/">D'WoC</a></span><br><span><a href="https://swoc.tech/#:~:text=About%20SWOC,problem%2Dsolving%20in%20real%20time.">S'WoC</a></span><br><span><a href="https://crosswoc.ieeedtu.in/#">C'WoC</a></span><br><span><a href="https://mexili.org/winter_of_code/#/winter_of_code">M'WoC</a></span><br><span><a href="https://gssoc.girlscript.tech/profile.html?id=himanshu007-creator">GSSOC</a></span></div></details></samp> </td></tr>
+  
+   <tr><td><img src="https://img.icons8.com/fluent/48/000000/rockstar-social-club.png"/></td><td><samp><details><summary>Tools/Languages</summary><div>
+     <br>
+     <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<code><img height="20" src="https://img.icons8.com/color/48/000000/bootstrap.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code>
+<code><img height="20" src="https://img.icons8.com/color/48/000000/git.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code> 
+<br>
+     </div></details></samp> </td></tr>
+  
+  
   <tr><td><img src="https://img.icons8.com/cotton/40/000000/computer.png"/></td><td><samp> <details>
   <summary>:chart_with_upwards_trend: STATS</summary>
   <br/>
@@ -23,9 +40,9 @@
 <details>     
   <summary>GitHub Streak:fire:</summary>
   <br/>
-  <div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=himanshu007-creator&theme=dark&show-icons=true" alt="GitHub Streak"  /></div>
-  <div align="center"><img src="https://activity-graph.herokuapp.com/graph?username=himanshu007-creator&theme=xcode" alt="ACTIVITY" /></div>
-   <div align="center"><img src="https://github-profile-trophy.vercel.app/?username=himanshu007-creator&theme=gruvbox"/></div>
+  <div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=himanshu007-creator&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" alt="GitHub Streak"  /></div>
+   <div align="center"><img src="https://github-profile-trophy.vercel.app/?username=himanshu007-creator&theme=  <div align="center"><img src="https://activity-graph.herokuapp.com/graph?username=himanshu007-creator&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" alt="ACTIVITY" /></div>
+"/></div>
 </details></samp> </td></tr>
   <tr><td><img src="https://img.icons8.com/color/40/000000/instagram-verification-badge.png"/></td><td><samp> <details><summary>Socials</summary><div>
   <!--<span><a href="https://www.hackerrank.com/colonealcortez"><img src="https://img.shields.io/badge/Himanshu-30302f?style=flat&logo=hackerrank"/></a></span><br>-->
