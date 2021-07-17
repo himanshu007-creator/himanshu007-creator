@@ -85,7 +85,7 @@
       <tr>
         <td><a href="https://www.facebook.com/sparkarhub/effects/690562661704018/overview/"><b>GTA_AR effect🖼</b></a></td>
         <td>Instagram effect to celebrate vaccination <strong>GTA</strong> style</td>
-        <td colspan="4" align="center">Try it here https://rb.gy/qsvcvj</td>
+        <td colspan="4" align="center">Try it here https://cutt.ly/UmZ6IMW</td>
       </tr>
     </tbody>        
 </table>
