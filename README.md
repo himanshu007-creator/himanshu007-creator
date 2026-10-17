@@ -1,8 +1,8 @@
-<!-- ponytail: pure markdown + hosted SVGs, no build step. Snake SVG appears after the workflow's first run. -->
+<!-- ponytail: pure markdown + hosted SVGs, no build step. Badges via badgen (own cache, no token-pool errors). -->
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:1b0d33,50:9b5de5,100:ff6ec7&text=himanshu&fontColor=ffffff&fontSize=72&fontAlignY=38&desc=builds%20with%20AI%2C%20ships%20with%20taste&descAlignY=58&descSize=22&animation=fadeIn" width="100%" alt="header"/>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=800&color=FF6EC7&center=true&vCenter=true&width=640&lines=GenAI+engineer+%40Writesonic;orchestrating+agents%2C+not+just+prompting+them;vibe+coder+%7C+reverse+engineer+%7C+meme+connoisseur;user-first+taste+%3E+feature+count" alt="typing"/></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=800&color=FF6EC7&center=true&vCenter=true&width=640&lines=AI+enabled+engineer;orchestrating+agents%2C+not+just+prompting+them;vibe+coder+%7C+reverse+engineer+%7C+meme+connoisseur;user-first+taste+%3E+feature+count" alt="typing"/></a>
 </p>
 
 <p align="center">
@@ -24,7 +24,7 @@
 
 ```ts
 const himanshu = {
-  role:     "GenAI engineer @ Writesonic",
+  role:     "AI enabled engineer",
   builds:   ["agent orchestration", "MCP servers", "LLM pipelines", "products people actually enjoy"],
   belief:   "harness the model, orchestrate the system, think deeper than the prompt",
   taste:    "first-hand user obsession > feature checklists",
@@ -42,14 +42,14 @@ const himanshu = {
     <td width="50%" valign="top">
       <h3><a href="https://github.com/himanshu007-creator/passit">🦀 passit</a></h3>
       <p>Pass conversations between AI agents. A local-first MCP server so Claude Code, OpenCode, Cursor and Gemini can grab, drop and continue one shared context. Rust, on crates.io.</p>
-      <a href="https://github.com/himanshu007-creator/passit"><img src="https://img.shields.io/github/stars/himanshu007-creator/passit?style=flat-square&color=ff6ec7&labelColor=1b0d33" alt="stars"/></a>
+      <a href="https://github.com/himanshu007-creator/passit"><img src="https://badgen.net/github/stars/himanshu007-creator/passit?color=ff6ec7&label=stars&labelColor=1b0d33" alt="stars"/></a>
       <img src="https://img.shields.io/badge/Rust-000?style=flat-square&logo=rust" alt="rust"/>
       <img src="https://img.shields.io/badge/MCP-7B2FF7?style=flat-square" alt="mcp"/>
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/himanshu007-creator/sketchetc">🌴 sketchetc</a></h3>
       <p>Vice City themed, fully interactive macOS menu bar on SketchyBar. Themes, widgets, clipboard history, aura points and a tamper-proof journal. Replaces a pile of paid menu bar apps.</p>
-      <a href="https://github.com/himanshu007-creator/sketchetc"><img src="https://img.shields.io/github/stars/himanshu007-creator/sketchetc?style=flat-square&color=ff6ec7&labelColor=1b0d33" alt="stars"/></a>
+      <a href="https://github.com/himanshu007-creator/sketchetc"><img src="https://badgen.net/github/stars/himanshu007-creator/sketchetc?color=ff6ec7&label=stars&labelColor=1b0d33" alt="stars"/></a>
       <img src="https://img.shields.io/badge/Shell-4EAA25?style=flat-square&logo=gnubash&logoColor=white" alt="shell"/>
       <a href="https://himanshu007-creator.github.io/sketchetc/"><img src="https://img.shields.io/badge/live-0bd3d3?style=flat-square" alt="live"/></a>
     </td>
@@ -58,13 +58,13 @@ const himanshu = {
     <td width="50%" valign="top">
       <h3><a href="https://github.com/himanshu007-creator/SFC-foundations">🏛️ SFC-foundations</a></h3>
       <p>Community site that pulled 100+ open-source contributors through Hacktoberfest and GSSoC. My most-starred repo and the reason I love onboarding newcomers.</p>
-      <a href="https://github.com/himanshu007-creator/SFC-foundations"><img src="https://img.shields.io/github/stars/himanshu007-creator/SFC-foundations?style=flat-square&color=ff6ec7&labelColor=1b0d33" alt="stars"/></a>
-      <img src="https://img.shields.io/github/forks/himanshu007-creator/SFC-foundations?style=flat-square&color=9b5de5&labelColor=1b0d33" alt="forks"/>
+      <a href="https://github.com/himanshu007-creator/SFC-foundations"><img src="https://badgen.net/github/stars/himanshu007-creator/SFC-foundations?color=ff6ec7&label=stars&labelColor=1b0d33" alt="stars"/></a>
+      <img src="https://badgen.net/github/forks/himanshu007-creator/SFC-foundations?color=9b5de5&label=forks&labelColor=1b0d33" alt="forks"/>
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/himanshu007-creator/parchiapp">🩺 parchiapp</a></h3>
       <p>Medical record management, built because paper prescriptions get lost. TypeScript end to end, deployed on Vercel.</p>
-      <a href="https://github.com/himanshu007-creator/parchiapp"><img src="https://img.shields.io/github/stars/himanshu007-creator/parchiapp?style=flat-square&color=ff6ec7&labelColor=1b0d33" alt="stars"/></a>
+      <a href="https://github.com/himanshu007-creator/parchiapp"><img src="https://badgen.net/github/stars/himanshu007-creator/parchiapp?color=ff6ec7&label=stars&labelColor=1b0d33" alt="stars"/></a>
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="ts"/>
       <a href="https://parchiapp.vercel.app"><img src="https://img.shields.io/badge/live-0bd3d3?style=flat-square" alt="live"/></a>
     </td>
@@ -73,13 +73,13 @@ const himanshu = {
     <td width="50%" valign="top">
       <h3><a href="https://github.com/himanshu007-creator/GTA-VC">🎨 GTA-VC</a></h3>
       <p>A VS Code theme that brings back the good old days of Vice City. Neon on purpose.</p>
-      <a href="https://github.com/himanshu007-creator/GTA-VC"><img src="https://img.shields.io/github/stars/himanshu007-creator/GTA-VC?style=flat-square&color=ff6ec7&labelColor=1b0d33" alt="stars"/></a>
+      <a href="https://github.com/himanshu007-creator/GTA-VC"><img src="https://badgen.net/github/stars/himanshu007-creator/GTA-VC?color=ff6ec7&label=stars&labelColor=1b0d33" alt="stars"/></a>
       <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="vscode"/>
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/himanshu007-creator/MEMEBOT">🤖 MEMEBOT</a></h3>
       <p>Fresh dank memes from Reddit, served by a bot. The most important project on this list.</p>
-      <a href="https://github.com/himanshu007-creator/MEMEBOT"><img src="https://img.shields.io/github/stars/himanshu007-creator/MEMEBOT?style=flat-square&color=ff6ec7&labelColor=1b0d33" alt="stars"/></a>
+      <a href="https://github.com/himanshu007-creator/MEMEBOT"><img src="https://badgen.net/github/stars/himanshu007-creator/MEMEBOT?color=ff6ec7&label=stars&labelColor=1b0d33" alt="stars"/></a>
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="js"/>
     </td>
   </tr>
@@ -91,10 +91,10 @@ const himanshu = {
 
 | Project | What | Stars |
 |---|---|---|
-| [OpenSource-progammes](https://github.com/himanshu007-creator/OpenSource-progammes) | Curated resources to get started with open source | ![](https://img.shields.io/github/stars/himanshu007-creator/OpenSource-progammes?style=flat-square&color=ff6ec7&labelColor=1b0d33) |
-| [OMRZen](https://github.com/himanshu007-creator/OMRZen) | Minimalistic OMR sheet, online | ![](https://img.shields.io/github/stars/himanshu007-creator/OMRZen?style=flat-square&color=ff6ec7&labelColor=1b0d33) |
-| [Watchdog-grub-theme](https://github.com/himanshu007-creator/Watchdog-grub-theme) | Watch Dogs inspired GRUB theme | ![](https://img.shields.io/github/stars/himanshu007-creator/Watchdog-grub-theme?style=flat-square&color=ff6ec7&labelColor=1b0d33) |
-| [AMZN-1.0.1](https://github.com/himanshu007-creator/AMZN-1.0.1) | Prime Video re-engineered with better recommendations and accessibility | ![](https://img.shields.io/github/stars/himanshu007-creator/AMZN-1.0.1?style=flat-square&color=ff6ec7&labelColor=1b0d33) |
+| [OpenSource-progammes](https://github.com/himanshu007-creator/OpenSource-progammes) | Curated resources to get started with open source | ![](https://badgen.net/github/stars/himanshu007-creator/OpenSource-progammes?color=ff6ec7&label=stars&labelColor=1b0d33) |
+| [OMRZen](https://github.com/himanshu007-creator/OMRZen) | Minimalistic OMR sheet, online | ![](https://badgen.net/github/stars/himanshu007-creator/OMRZen?color=ff6ec7&label=stars&labelColor=1b0d33) |
+| [Watchdog-grub-theme](https://github.com/himanshu007-creator/Watchdog-grub-theme) | Watch Dogs inspired GRUB theme | ![](https://badgen.net/github/stars/himanshu007-creator/Watchdog-grub-theme?color=ff6ec7&label=stars&labelColor=1b0d33) |
+| [AMZN-1.0.1](https://github.com/himanshu007-creator/AMZN-1.0.1) | Prime Video re-engineered with better recommendations and accessibility | ![](https://badgen.net/github/stars/himanshu007-creator/AMZN-1.0.1?color=ff6ec7&label=stars&labelColor=1b0d33) |
 
 </details>
 
@@ -121,10 +121,6 @@ const himanshu = {
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=himanshu007-creator&show_icons=true&hide_border=true&bg_color=1b0d33&title_color=ff6ec7&icon_color=0bd3d3&text_color=ffffff&ring_color=9b5de5&include_all_commits=true&count_private=true" height="165" alt="stats"/>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=himanshu007-creator&hide_border=true&background=1b0d33&ring=ff6ec7&fire=ffa552&currStreakLabel=ff6ec7&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=9b5de5" height="165" alt="streak"/>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/himanshu007-creator/himanshu007-creator/output/github-snake-dark.svg" width="100%" alt="contribution snake"/>
 </p>
 
 <br/>
